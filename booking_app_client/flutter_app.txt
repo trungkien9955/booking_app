@@ -1,0 +1,3 @@
+FRONT END
+1. Vs code => command pallete=>new flutter project=>application
+2.
